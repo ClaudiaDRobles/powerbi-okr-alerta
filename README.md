@@ -1,8 +1,8 @@
-# 📊 Automatización de Reportes OKR (POC)
+# 📊 Automatización de Reportes OKR 
 
 ## 🚀 Descripción
 
-Este proyecto es una prueba de concepto (POC) que demuestra la integración entre Power BI y Power Automate para automatizar el envío de reportes de cumplimiento de objetivos (OKR).
+Este proyecto es una prueba de concepto que demuestra la integración entre Power BI y Power Automate para automatizar el envío de reportes de cumplimiento de objetivos (OKR).
 
 El objetivo es simular un escenario real de negocio donde los stakeholders reciben reportes ejecutivos con un solo clic.
 
